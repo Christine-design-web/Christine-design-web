@@ -31,8 +31,12 @@ Here are a few projects I've worked on:
 
  My Github stats
  
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Christine-design-web&theme=vue-dark&hide_longest_streak=true" alt="GitHub Streak" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 Feel free to explore my repositories and connect with me. Let's collaborate and build amazing things together!
 
