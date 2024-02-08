@@ -29,7 +29,9 @@ Here are a few projects I've worked on:
 - [Project 2](https://github.com/Christine-design-web/Musicale): This is a website with my favorites musics.
 - [Project 3](https://github.com/Christine-design-web/DrawingApp): I just thought it is better we do away with more of paper work and i decided to get a web drawing app.
 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Christine-design-web" alt="GitHub Streak" /></a>
+ My Github stats
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Christine-design-web&theme=vue-dark&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/Christine-design-web/github-readme-stats)
 Feel free to explore my repositories and connect with me. Let's collaborate and build amazing things together!
 
