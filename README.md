@@ -27,7 +27,7 @@ Here are a few projects I've worked on:
 
 - [Project 1](https://github.com/Christine-design-web/Green-Mart): This was a group project for womenintech bootcamp.
 - [Project 2](https://github.com/Christine-design-web/Musicale): This is a website with my favorites musics.
-- [Project 3](https://github.com/Christine-design-web/DrawingApp): Ijust thought is better we do away with more of paper work and i decided to get a web drawing app.
+- [Project 3](https://github.com/Christine-design-web/DrawingApp): I just thought it is better we do away with more of paper work and i decided to get a web drawing app.
 
 Feel free to explore my repositories and connect with me. Let's collaborate and build amazing things together!
 
