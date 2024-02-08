@@ -31,7 +31,7 @@ Here are a few projects I've worked on:
 
  My Github stats
  
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Christine-design-web&theme=vue-dark&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Christine-design-web&theme=vue-dark" alt="GitHub Streak" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
