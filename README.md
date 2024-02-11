@@ -10,7 +10,7 @@ I'm a passionate software engineer who loves coding, solving problems, and tackl
 - 🔍 Ask me anything about coding! I'm always eager to share my knowledge and learn from others.
 - 📧 You can reach me at [wangecichristine39@gmail.com](mailto:wangecichristine39@gmail.com).
 - 😄 Pronouns: she/her
-- 
+- [![committers.top badge](https://user-badge.committers.top/kenya_public/Christine-design-web.svg)](https://user-badge.committers.top/kenya_public/Christine-design-web)
 - <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Christine-design-web&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </a>
