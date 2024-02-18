@@ -15,6 +15,8 @@ I'm a passionate software engineer who loves coding, solving problems, and tackl
   <img src="https://visitcount.itsvg.in/api?id=Christine-design-web&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Christine-design-web)](https://git.io/streak-stats)
+
 ## About Me
 
 - 🔭 I'm passionate about building innovative solutions that make a positive impact on people's lives.
