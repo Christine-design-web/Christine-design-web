@@ -15,8 +15,6 @@ I'm a passionate software engineer who loves coding, solving problems, and tackl
   <img src="https://visitcount.itsvg.in/api?id=Christine-design-web&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Christine-design-web)](https://git.io/streak-stats)
-
 ## About Me
 
 - 🔭 I'm passionate about building innovative solutions that make a positive impact on people's lives.
@@ -33,8 +31,7 @@ Here are a few projects I've worked on:
 - [Project 3](https://github.com/Christine-design-web/DrawingApp): I just thought it is better we do away with more of paper work and i decided to get a web drawing app.
 
  My Github stats
- 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Christine-design-web&theme=vue-dark" alt="GitHub Streak" /></a>
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Christine-design-web)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
