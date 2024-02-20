@@ -31,6 +31,8 @@ Here are a few projects I've worked on:
 - [Project 3](https://github.com/Christine-design-web/DrawingApp): I just thought it is better we do away with more of paper work and i decided to get a web drawing app.
 
  My Github stats
+
+ 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=Christine-design-web)](https://git.io/streak-stats)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
