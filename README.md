@@ -3,7 +3,6 @@
 I'm a passionate software engineer who loves coding, solving problems, and tackling challenges. I thrive on pushing boundaries and exploring new technologies. Here's a bit about me:
 
 - 💻 I'm currently working as a Data Entry Agent at the Judiciary Law Court.
-- 🚀 I'm also an Internship participant at Codsoft, where I'm working on exciting projects to enhance my skills and knowledge in software engineering.
 - 🧑‍💻 I'm currently working on Job-search portal project.
 - 🎓 I'm currently enrolled in software engineering classes, continuously learning and expanding my expertise.
 - ⚙️ I'm proficient in various programming languages and technologies, with a keen interest in web development.
