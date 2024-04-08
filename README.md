@@ -4,7 +4,6 @@ I'm a passionate software engineer who loves coding, solving problems, and tackl
 
 - 💻 I'm currently working as a Data Entry Agent at the Judiciary Law Court.
 - 🧑‍💻 I'm currently working on Job-search portal project.
-- 🎓 I'm currently enrolled in software engineering classes, continuously learning and expanding my expertise.
 - ⚙️ I'm proficient in various programming languages and technologies, with a keen interest in web development.
 - 🌱 I'm currently focusing on mastering React.js and advancing my skills in frontend development.
 - 🔍 Ask me anything about coding! I'm always eager to share my knowledge and learn from others.
