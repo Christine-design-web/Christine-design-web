@@ -15,7 +15,7 @@ I'm a passionate software engineer who loves coding, solving problems, and tackl
 ## About Me
 
 - 🔭 I'm passionate about building innovative solutions that make a positive impact on people's lives.
-- ⚽ In my free time, I enjoy playing and watching football, a perfect way to unwind and recharge.
+- ⚽ In my free time, I enjoy listening to music, playing and watching football, a perfect way to unwind and recharge.
 - 🌱 I'm a self-driven coder who thrives in collaborative environments, especially within the tech community and among friends.
 - 🎵 Fun fact: I love listening to music while coding – it helps me stay focused and inspired.
 
