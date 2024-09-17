@@ -2,9 +2,9 @@
 
 I'm a passionate software engineer who loves coding, solving problems, and tackling challenges. I thrive on pushing boundaries and exploring new technologies. Here's a bit about me:
 
-- 🧑‍💻 I'm currently working on Job-search portal project.
+- 🧑‍💻 I'm currently working on a Neurocommerce site.
 - ⚙️ I'm proficient in various programming languages and technologies, with a keen interest in web development.
-- 🌱 I'm currently focusing on mastering React.js and advancing my skills in frontend development.
+- 🌱 I'm currently focusing on advancing my skills in frontend development.
 - 🔍 Ask me anything about coding! I'm always eager to share my knowledge and learn from others.
 - 📧 You can reach me at [wangecichristine39@gmail.com](mailto:wangecichristine39@gmail.com).
 - 😄 Pronouns: she/her
