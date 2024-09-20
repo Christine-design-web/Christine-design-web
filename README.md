@@ -30,8 +30,7 @@ Here are a few projects I've worked on:
  My Github stats
 
 
- 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Christine-design-web)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Christine-design-web)](https://git.io/streak-stats)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
